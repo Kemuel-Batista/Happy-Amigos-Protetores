@@ -52,4 +52,4 @@
 
 ## 📄 Licença
 
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/Kemuel-Batista/Happy-Amigos-Protetores/LICENSE) para detalhes.
+Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/Kemuel-Batista/Happy-Amigos-Protetores/LICENSE](https://github.com/Kemuel-Batista/Happy-Amigos-Protetores/blob/main/LICENSE.md) para detalhes.
