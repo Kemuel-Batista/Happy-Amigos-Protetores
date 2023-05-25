@@ -36,5 +36,7 @@
 
 ### Diagrama de Classes
 
-<p>Disponível para visualizar completa no link abaixo.</p>
-* [Diagrama de Classes](https://whimsical.com projeto-de-analise-diagrama-de-classes-Ad5R7bwTyvK9sFeryrrADo)
+![Projeto de Análise - Diagrama de Classes@2x](https://github.com/Kemuel-Batista/Happy-Amigos-Protetores/assets/62821098/be3b1439-873b-4317-9f33-cb74980f6904)
+
+<p>Disponível para visualização completa no link abaixo.</p>
+* [Diagrama de Classes](https://whimsical.com/projeto-de-analise-diagrama-de-classes-Ad5R7bwTyvK9sFeryrrADo)
