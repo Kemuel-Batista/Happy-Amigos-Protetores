@@ -7,6 +7,10 @@
 <p>O sistema também possui um feed de postagens de todas as ONGs, que os voluntários podem ver e dar feedback específico sobre cada uma delas. Os voluntários também podem visualizar suas marcações de postagens e comentários feitos, podendo criar, editar e excluir esses comentários. Por sua vez, as ONGs têm a possibilidade de visualizar, editar, excluir e criar suas próprias postagens, bem como os comentários feitos sobre elas.</p>
 <p>Durante o cadastro, serão coletadas informações sobre as necessidades das ONGs e como os voluntários podem ajudá-las. O sistema será capaz de rastrear e interligar apenas ONGs e voluntários que tenham necessidades correspondentes. Vale ressaltar que o sistema deve ser exclusivo para ONGs de pets.</p>
 
+## 💌 Convide Pessoas e Transforme vidas
+
+<img src="https://github.com/Kemuel-Batista/Happy-Amigos-Protetores/assets/62821098/c4ed0c2a-2faa-4628-b0b4-1cfb0eab28bf" width="500" height="600"/>
+
 ## 📋 Análise de Requisitos
 
 ### Requisitos Funcionais
@@ -52,4 +56,4 @@
 
 ## 📄 Licença
 
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md]([https://github.com/Kemuel-Batista/Happy-Amigos-Protetores/blob/main/LICENSE.md]) para detalhes.
+Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/Kemuel-Batista/Happy-Amigos-Protetores/blob/main/LICENSE.md) para detalhes.
