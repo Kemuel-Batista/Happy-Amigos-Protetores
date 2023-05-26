@@ -9,7 +9,7 @@
 
 ## 💌 Convide Pessoas e Transforme vidas
 
-<img src="https://github.com/Kemuel-Batista/Happy-Amigos-Protetores/assets/62821098/c4ed0c2a-2faa-4628-b0b4-1cfb0eab28bf" width="500" height="600"/>
+<img src="https://github.com/Kemuel-Batista/Happy-Amigos-Protetores/assets/62821098/a6baa68e-6f44-4c4b-8de9-66a8dabc4576" width="500" height="600"/>
 
 ## 📋 Análise de Requisitos
 
