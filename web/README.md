@@ -15,3 +15,7 @@
 * [Nookies](https://github.com/maticzav/nookies)
 * [React Icons](https://react-icons.github.io/react-icons/)
 * [Phosphor React](https://phosphoricons.com/)
+
+## [Figma Design](https://www.figma.com/community/file/1243714315950464334/Happy---Amigos-Protetores)
+
+![Splash](https://github.com/Kemuel-Batista/Happy-Amigos-Protetores/assets/62821098/c53cdb21-2f32-4ea7-9394-bc3faac4c648)
