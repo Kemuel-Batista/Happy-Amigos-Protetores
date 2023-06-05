@@ -2,14 +2,19 @@
 
 ## 🛠️ Construído com
 
-* [Typescript](https://www.typescriptlang.org/docs/)
-* [PostgreSQL](https://www.postgresql.org/docs/)
+<p>
+    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
+    <a href="https://www.typescriptlang.org/docs/"><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
+    <a href="https://www.postgresql.org/docs/"><img alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+    <a href="https://developers.google.com/apis-explorer?hl=pt-br"><img alt="Google APIs" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
+    <a href="https://expressjs.com/pt-br/"><img alt="Express JS" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></a>
+   
+</p>
+
 * [Cloudinary](https://cloudinary.com/documentation)
 * [Nodemailer](https://nodemailer.com/about/)
 * [Perspective API](https://perspectiveapi.com/)
 * [TypeORM](https://typeorm.io/)
-* [Google APIs](https://developers.google.com/apis-explorer?hl=pt-br)
-* [Express](https://expressjs.com/pt-br/)
 * [Handlebars](https://handlebarsjs.com/)
 * [Zod Validation](https://zod.dev/)
 * [Bcrypt](https://en.wikipedia.org/wiki/Bcrypt)
