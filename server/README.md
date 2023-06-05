@@ -19,6 +19,10 @@
 * [Zod Validation](https://zod.dev/)
 * [Bcrypt](https://en.wikipedia.org/wiki/Bcrypt)
 
+## Estrutura de Pastas
+
+![image](https://github.com/Kemuel-Batista/Happy-Amigos-Protetores/assets/62821098/898ec5d8-5b35-45e5-97a5-a274b713eefe)
+
 ## Documentação 
 
 ### User Story
