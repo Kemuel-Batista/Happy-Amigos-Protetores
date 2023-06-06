@@ -19,13 +19,13 @@
 * [Zod Validation](https://zod.dev/)
 * [Bcrypt](https://en.wikipedia.org/wiki/Bcrypt)
 
-## Estrutura de Pastas
+## 📚 Estrutura de Pastas
 
 ![image](https://github.com/Kemuel-Batista/Happy-Amigos-Protetores/assets/62821098/898ec5d8-5b35-45e5-97a5-a274b713eefe)
 
-## Documentação 
+## 📃 Documentação 
 
-### User Story
+### 🧑‍💻 User Story
 
 * US1 – Como voluntário, gostaria de poder me cadastrar no sistema e editar as minhas informações, deletar a minha conta no futuro caso não haja mais interesse e resetar a minha senha se necessário, para poder utilizar o sistema e todas as suas funcionalidades.
 * US2 – Como voluntário gostaria de dar um feedback as ONG´s que eu ajudei para que outros voluntários saibam de que forma ajudar perante o valor agregado a essa ONG.
@@ -43,7 +43,7 @@
 * US14 – Como administrador do sistema gostaria de gerenciar novos usuários administradores a fim de controlar o nível de permissões do usuário.
 * US15 – Como administrador quero gerenciar as avaliações tanto das ONG´s quanto dos voluntários para que sejam avaliados de forma justa e ética.	
 
-### Diagrama de Classes
+### 🗺️ Diagrama de Classes
 
 ![Projeto de Análise - Diagrama de Classes@2x](https://github.com/Kemuel-Batista/Happy-Amigos-Protetores/assets/62821098/be3b1439-873b-4317-9f33-cb74980f6904)
 
