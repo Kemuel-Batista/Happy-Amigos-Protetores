@@ -13,6 +13,10 @@ https://github.com/Kemuel-Batista/Happy-Amigos-Protetores/assets/62821098/464f47
 
 <img src="https://github.com/Kemuel-Batista/Happy-Amigos-Protetores/assets/62821098/a6baa68e-6f44-4c4b-8de9-66a8dabc4576" width="500" height="600"/>
 
+## Estruturação do Frontend e Backend
+
+![Animals Project](https://github.com/Kemuel-Batista/Happy-Amigos-Protetores/assets/62821098/146ac259-a311-4497-bcb5-2043a487a335)
+
 ## 📋 Análise de Requisitos
 
 ### Requisitos Funcionais
