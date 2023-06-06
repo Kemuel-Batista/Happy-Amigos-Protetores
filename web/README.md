@@ -23,6 +23,10 @@
 * [React Icons](https://react-icons.github.io/react-icons/)
 * [Phosphor React](https://phosphoricons.com/)
 
-## [Figma Design](https://www.figma.com/community/file/1243714315950464334/Happy-Amigos-Protetores)
+## 🎞️ [Figma Design](https://www.figma.com/community/file/1243714315950464334/Happy-Amigos-Protetores)
 
 ![Splash](https://github.com/Kemuel-Batista/Happy-Amigos-Protetores/assets/62821098/1bf3b9e9-5352-4b31-ac91-ca7e3d5c46a9)
+
+## 📚 Estrutura de Pastas
+
+![image](https://github.com/Kemuel-Batista/Happy-Amigos-Protetores/assets/62821098/6bb37c45-65b5-4541-8def-b5eb363df850)
